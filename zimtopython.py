@@ -6,3 +6,4 @@ print """
          Test rebase command
       """
 print "other test"
+print "++ test"
