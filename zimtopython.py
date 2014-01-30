@@ -2,3 +2,6 @@
 #-*- encoding: utf-8 -*-
 
 import antigravity
+print """
+         Test rebase command
+      """
