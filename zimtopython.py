@@ -5,3 +5,4 @@ import antigravity
 print """
          Test rebase command
       """
+print "other test"
