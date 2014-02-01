@@ -2,3 +2,4 @@
 
 
 print "continue rebase test"
+print "parceiro de bar estah bar.py"
