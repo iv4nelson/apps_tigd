@@ -12,6 +12,6 @@ def main():
     w.setWindowTitle('Hello Foors and Bars')
     w.show()
 
-    sys.exit(app.exec__())
+    sys.exit(app.exec_())
 
 main()
